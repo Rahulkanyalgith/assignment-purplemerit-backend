@@ -49,3 +49,6 @@ All endpoints require `Authorization: Bearer <token>` header (except auth endpoi
 **Users:** `GET /api/users/profile` | `PUT /api/users/profile`  
 **Admin:** `GET /api/admin/users` | `PUT /api/admin/users/:id` | `DELETE /api/admin/users/:id`
 
+### Recommended Test Credentials
+- **Admin Account:** admin@example.com / Admin@123
+- **User Account:** john@example.com / User@123
