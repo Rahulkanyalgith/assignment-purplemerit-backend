@@ -1,6 +1,6 @@
 # User Management System - Backend API
 
-Secure Node.js/Express REST API with MongoDB, JWT auth, role-based access, and 73+ unit tests (100% coverage).
+Secure Node.js/Express REST API with MongoDB, JWT auth, role-based access, and 7 unit tests (100% coverage).
 
 ## 🛠 Tech Stack
 
